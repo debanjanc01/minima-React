@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/minima-react/static/css/main.7137c371.css",
-    "main.js": "/minima-react/static/js/main.48ff4edd.js",
-    "index.html": "/minima-react/index.html",
-    "main.7137c371.css.map": "/minima-react/static/css/main.7137c371.css.map",
-    "main.48ff4edd.js.map": "/minima-react/static/js/main.48ff4edd.js.map"
+    "main.css": "/static/css/main.7137c371.css",
+    "main.js": "/static/js/main.48ff4edd.js",
+    "index.html": "/index.html",
+    "main.7137c371.css.map": "/static/css/main.7137c371.css.map",
+    "main.48ff4edd.js.map": "/static/js/main.48ff4edd.js.map"
   },
   "entrypoints": [
     "static/css/main.7137c371.css",
